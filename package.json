@@ -1,0 +1,19 @@
+{
+  "name": "ancore",
+  "version": "1.0.0",
+  "description": "This is an analytical tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramchinnam/codeRD.git"
+  },
+  "author": "VC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramchinnam/codeRD/issues"
+  },
+  "homepage": "https://github.com/vikramchinnam/codeRD#readme"
+}
