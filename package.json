@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "This is an analytical tool",
   "main": "index.js",
-  "scripts": {
-    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vikramchinnam/codeRD.git"
@@ -15,5 +12,17 @@
   "bugs": {
     "url": "https://github.com/vikramchinnam/codeRD/issues"
   },
-  "homepage": "https://github.com/vikramchinnam/codeRD#readme"
+  "homepage": "https://github.com/vikramchinnam/codeRD#readme",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
